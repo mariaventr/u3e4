@@ -1,0 +1,5 @@
+DNI,Nombre,Dirección,Teléfono,Tarea,Fecha Inicio,Fecha Fin,Monto Viatico,Costo Obra,Monto Seguro Vida
+78901234,María Castro,Calle G 901,555-2345,carpinteria,2023-01-01,2023-12-31,5000,1000000,2000
+89012345,Andrés Fernández,Calle H 234,555-5678,electricidad,2023-02-01,2023-11-30,3000,800000,1500
+90123456,Sofía Morales,Calle I 567,555-8901,plomeria,2023-03-01,2023-10-31,4000,1200000,2500
+23435353,Andrés Fernández,Calle H 234,555-5678,electricidad,2023-02-01,2023-11-30,3000,800000,1500
